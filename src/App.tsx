@@ -1,9 +1,7 @@
-import React, { useState, useEffect } from "react";
-import { io, Socket } from "socket.io-client";
-import LandingScreen from "./components/LandingScreen";
-import WaitingScreen from "./components/WaitingScreen";
-import ChatScreen from "./components/ChatScreen";
-import ThemeToggle from "./components/ThemeToggle";
+import LandingScreen from "./LandingScreen";
+import WaitingScreen from "./WaitingScreen";
+import ChatScreen from "./ChatScreen";
+import ThemeToggle from "./ThemeToggle";
 import { Room, ChatScreenState } from "./types";
 import { MessageSquareCode, Sparkles } from "lucide-react";
 
