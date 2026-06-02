@@ -146,7 +146,7 @@ export default function App() {
   };
 
   return (
-    <div className={`w-full min-h-screen transition-all duration-300 ${darkMode ? "dark bg-slate-950" : "bg-slate-50"}`} id="root-theme-wrapper">
+    <div className="bg-blue-500 text-white min-h-screen">
       {/* Top Navbar / Branding Panel */}
       <header className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between" id="app-branding-header">
         <div className="flex items-center gap-2" id="logo-block">
