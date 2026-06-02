@@ -1,0 +1,6 @@
+{
+  "name": "1-on-1 Chat Room",
+  "description": "A real-time, responsive 1-on-1 chat room system utilizing React, Tailwind CSS, Express, and Socket.io.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
